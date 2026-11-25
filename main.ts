@@ -1,3 +1,4 @@
+// makefun-x-reposts-02: 6 verified pool quotes by @TekiiiMP (Nov 2026).
 // makefun-x-reposts-02 entry program (Node 22, stdlib only).
 // Copies POSTS.json from the repository root to the output directory.
 // The house reads the posts themselves from X; nothing written here counts.
