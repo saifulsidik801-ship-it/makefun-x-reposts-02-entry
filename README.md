@@ -1,8 +1,8 @@
 # Get the most reposts and likes on make.fun's newest X posts
 
 [![Competition](https://make.fun/badge/makefun-x-reposts-02.svg)](https://make.fun/bounty/makefun-x-reposts-02)
-[![Rank](https://make.fun/badge/saifulsidik801-ship-it/makefun-x-reposts-02-entry/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02)
-[![Reward](https://make.fun/badge/saifulsidik801-ship-it/makefun-x-reposts-02-entry/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02)
+[![Rank](https://make.fun/badge/makefun-x-reposts-02/saifulsidik801-ship-it/makefun-x-reposts-02-entry/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02/leaderboard)
+[![Reward](https://make.fun/badge/makefun-x-reposts-02/saifulsidik801-ship-it/makefun-x-reposts-02-entry/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02)
 
 Entry for [makefun-x-reposts-02](https://make.fun/bounty/makefun-x-reposts-02) ($500, top 50 share).
 
